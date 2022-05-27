@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-
 import Navbar from "./Navbar/navbar";
 
 import CustomizedTables from "./Stationary/CardDetails/Card";
